@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=hello_world [~/PycharmProjects/hello_world] - .../run.py [hello_world] - PyCharm
+Icon=jetbrains-pycharm.png
+Exec=/snap/pycharm-professional/68/jre64/bin/java -classpath /snap/pycharm-professional/68/lib/bootstrap.jar:/snap/pycharm-professional/68/lib/extensions.jar:/snap/pycharm-professional/68/lib/util.jar:/snap/pycharm-professional/68/lib/jdom.jar:/snap/pycharm-professional/68/lib/log4j.jar:/snap/pycharm-professional/68/lib/trove4j.jar:/snap/pycharm-professional/68/lib/jna.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/osboxes/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/osboxes/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharm2018.1 -Djb.vmOptionsFile=/snap/pycharm-professional/68/bin/pycharm64.vmoptions -Didea.platform.prefix=Python com.intellij.idea.Main
+StartupNotify=false
+StartupWMClass=jetbrains-pycharm
+OnlyShowIn=Unity;
+X-UnityGenerated=true

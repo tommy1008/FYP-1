@@ -1,0 +1,16 @@
+
+** (unity-panel-service:1800): WARNING **: /usr/lib/indicators3/7/ does not exist, cannot read any indicators
+
+(unity-panel-service:1800): Gtk-CRITICAL **: gtk_main_quit: assertion 'main_loops != NULL' failed
+
+(unity-panel-service:1800): GLib-CRITICAL **: g_dir_read_name: assertion 'dir != NULL' failed
+
+(unity-panel-service:1800): GLib-CRITICAL **: g_dir_close: assertion 'dir != NULL' failed
+
+(unity-panel-service:1800): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(unity-panel-service:1800): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(unity-panel-service:1800): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(unity-panel-service:1800): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed

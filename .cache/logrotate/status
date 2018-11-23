@@ -1,0 +1,11 @@
+logrotate state -- version 2
+"/home/osboxes/.cache/upstart/update-notifier-release.log" 2018-11-23-5:2:58
+"/home/osboxes/.cache/upstart/unity-panel-service.log" 2018-11-23-5:2:58
+"/home/osboxes/.cache/upstart/unity7.log" 2018-11-23-5:2:58
+"/home/osboxes/.cache/upstart/update-notifier-cds.log" 2018-6-12-22:5:55
+"/home/osboxes/.cache/upstart/indicator-sound.log" 2018-11-23-5:2:58
+"/home/osboxes/.cache/upstart/upstart-event-bridge.log" 2018-11-23-5:2:58
+"/home/osboxes/.cache/upstart/unity-settings-daemon.log" 2018-11-23-5:2:58
+"/home/osboxes/.cache/upstart/indicator-datetime.log" 2018-11-23-5:2:58
+"/home/osboxes/.cache/upstart/dbus.log" 2018-11-23-5:2:58
+"/home/osboxes/.cache/upstart/at-spi2-registryd.log" 2018-11-23-5:2:58

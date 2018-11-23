@@ -1,0 +1,515 @@
+Fri Nov 23 06:01:58 EST 2018 crash report /var/crash/_lib_systemd_system-generators_lvm2-activation-generator.0.crash detected
+lvm2-activation-generator
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.212[0m: Theme parsing error: gtk-widgets-borders.css:31:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.213[0m: Theme parsing error: gtk-widgets-borders.css:35:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.213[0m: Theme parsing error: gtk-widgets-borders.css:90:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.213[0m: Theme parsing error: gtk-widgets-borders.css:94:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.214[0m: Theme parsing error: gtk-widgets-borders.css:103:69: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.214[0m: Theme parsing error: gtk-widgets-borders.css:105:69: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.214[0m: Theme parsing error: gtk-widgets-borders.css:107:64: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.215[0m: Theme parsing error: gtk-widgets-borders.css:196:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.215[0m: Theme parsing error: gtk-widgets-borders.css:197:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.215[0m: Theme parsing error: gtk-widgets-borders.css:211:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.216[0m: Theme parsing error: gtk-widgets-borders.css:217:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.216[0m: Theme parsing error: gtk-widgets-borders.css:225:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.216[0m: Theme parsing error: gtk-widgets-borders.css:237:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.216[0m: Theme parsing error: gtk-widgets-borders.css:249:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.217[0m: Theme parsing error: gtk-widgets-borders.css:261:51: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.217[0m: Theme parsing error: gtk-widgets-assets.css:35:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.218[0m: Theme parsing error: gtk-widgets-assets.css:39:22: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.218[0m: Theme parsing error: gtk-widgets-assets.css:43:22: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.218[0m: Theme parsing error: gtk-widgets-assets.css:44:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.218[0m: Theme parsing error: gtk-widgets-assets.css:45:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.219[0m: Theme parsing error: gtk-widgets-assets.css:68:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.219[0m: Theme parsing error: gtk-widgets-assets.css:72:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.219[0m: Theme parsing error: gtk-widgets-assets.css:96:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.219[0m: Theme parsing error: gtk-widgets-assets.css:100:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.219[0m: Theme parsing error: gtk-widgets-assets.css:101:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.219[0m: Theme parsing error: gtk-widgets-assets.css:102:45: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.220[0m: Theme parsing error: gtk-widgets-assets.css:124:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.220[0m: Theme parsing error: gtk-widgets-assets.css:128:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.220[0m: Theme parsing error: gtk-widgets-assets.css:132:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.220[0m: Theme parsing error: gtk-widgets-assets.css:136:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.220[0m: Theme parsing error: gtk-widgets-assets.css:140:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.220[0m: Theme parsing error: gtk-widgets-assets.css:141:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.220[0m: Theme parsing error: gtk-widgets-assets.css:142:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.221[0m: Theme parsing error: gtk-widgets-assets.css:146:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.221[0m: Theme parsing error: gtk-widgets-assets.css:147:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.221[0m: Theme parsing error: gtk-widgets-assets.css:148:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.222[0m: Theme parsing error: gtk-widgets-assets.css:152:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.222[0m: Theme parsing error: gtk-widgets-assets.css:152:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.222[0m: Theme parsing error: gtk-widgets-assets.css:156:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:156:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:157:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:157:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:158:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:158:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:162:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:166:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:170:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:171:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:175:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:176:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.223[0m: Theme parsing error: gtk-widgets-assets.css:180:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.224[0m: Theme parsing error: gtk-widgets-assets.css:180:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.224[0m: Theme parsing error: gtk-widgets-assets.css:184:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.224[0m: Theme parsing error: gtk-widgets-assets.css:184:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.224[0m: Theme parsing error: gtk-widgets-assets.css:208:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.224[0m: Theme parsing error: gtk-widgets-assets.css:212:22: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.224[0m: Theme parsing error: gtk-widgets-assets.css:216:22: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.224[0m: Theme parsing error: gtk-widgets-assets.css:217:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.224[0m: Theme parsing error: gtk-widgets-assets.css:218:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.224[0m: Theme parsing error: gtk-widgets-assets.css:240:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.225[0m: Theme parsing error: gtk-widgets-assets.css:244:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.225[0m: Theme parsing error: gtk-widgets-assets.css:268:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.225[0m: Theme parsing error: gtk-widgets-assets.css:272:22: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.225[0m: Theme parsing error: gtk-widgets-assets.css:273:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.225[0m: Theme parsing error: gtk-widgets-assets.css:274:45: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.225[0m: Theme parsing error: gtk-widgets-assets.css:296:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.225[0m: Theme parsing error: gtk-widgets-assets.css:300:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.225[0m: Theme parsing error: gtk-widgets-assets.css:304:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.225[0m: Theme parsing error: gtk-widgets-assets.css:308:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:312:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:313:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:314:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:318:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:319:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:320:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:324:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:324:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:328:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:328:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:329:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:329:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:330:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.226[0m: Theme parsing error: gtk-widgets-assets.css:330:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:334:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:338:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:342:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:343:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:347:23: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:348:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:352:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:352:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:356:32: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:356:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:383:49: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:384:49: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:385:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:386:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.227[0m: Theme parsing error: gtk-widgets-assets.css:387:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:388:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:401:49: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:402:49: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:403:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:404:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:405:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:406:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:422:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:430:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:452:21: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:453:32: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:457:27: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:458:38: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:462:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.228[0m: Theme parsing error: gtk-widgets-assets.css:463:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.229[0m: Theme parsing error: gtk-widgets-assets.css:467:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.229[0m: Theme parsing error: gtk-widgets-assets.css:468:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.229[0m: Theme parsing error: gtk-widgets-assets.css:484:30: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.229[0m: Theme parsing error: gtk-widgets-assets.css:488:36: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.229[0m: Theme parsing error: gtk-widgets-assets.css:492:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.229[0m: Theme parsing error: gtk-widgets-assets.css:496:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.231[0m: Theme parsing error: gtk-widgets.css:16:33: The style property GtkMenu:horizontal-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.231[0m: Theme parsing error: gtk-widgets.css:17:31: The style property GtkMenu:vertical-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.231[0m: Theme parsing error: gtk-widgets.css:19:32: The style property GtkMenuItem:arrow-scaling is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.232[0m: Theme parsing error: gtk-widgets.css:20:30: The style property GtkNotebook:tab-overlap is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.232[0m: Theme parsing error: gtk-widgets.css:40:32: The style property GtkWidget:separator-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.233[0m: Theme parsing error: gtk-widgets.css:41:33: The style property GtkWidget:separator-height is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.233[0m: Theme parsing error: gtk-widgets.css:42:32: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.233[0m: Theme parsing error: gtk-widgets.css:43:27: The style property GtkWidget:link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.233[0m: Theme parsing error: gtk-widgets.css:44:35: The style property GtkWidget:visited-link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.234[0m: Theme parsing error: gtk-widgets.css:126:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.234[0m: Theme parsing error: gtk-widgets.css:134:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.235[0m: Theme parsing error: gtk-widgets.css:141:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.236[0m: Theme parsing error: gtk-widgets.css:142:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.236[0m: Theme parsing error: gtk-widgets.css:169:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.236[0m: Theme parsing error: gtk-widgets.css:184:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.237[0m: Theme parsing error: gtk-widgets.css:258:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.238[0m: Theme parsing error: gtk-widgets.css:259:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.239[0m: Theme parsing error: gtk-widgets.css:391:27: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.239[0m: Theme parsing error: gtk-widgets.css:402:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.239[0m: Theme parsing error: gtk-widgets.css:442:23: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.240[0m: Theme parsing error: gtk-widgets.css:446:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.240[0m: Theme parsing error: gtk-widgets.css:458:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.240[0m: Theme parsing error: gtk-widgets.css:528:38: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.240[0m: Theme parsing error: gtk-widgets.css:684:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.240[0m: Theme parsing error: gtk-widgets.css:685:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.240[0m: Theme parsing error: gtk-widgets.css:696:10: not a number
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.240[0m: Theme parsing error: gtk-widgets.css:696:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.240[0m: Theme parsing error: gtk-widgets.css:739:37: The style property GtkMenuItem:horizontal-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.241[0m: Theme parsing error: gtk-widgets.css:786:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.241[0m: Theme parsing error: gtk-widgets.css:787:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.241[0m: Theme parsing error: gtk-widgets.css:788:48: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.241[0m: Theme parsing error: gtk-widgets.css:789:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.241[0m: Theme parsing error: gtk-widgets.css:790:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.241[0m: Theme parsing error: gtk-widgets.css:791:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.241[0m: Theme parsing error: gtk-widgets.css:792:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.241[0m: Theme parsing error: gtk-widgets.css:793:54: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.241[0m: Theme parsing error: gtk-widgets.css:794:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.242[0m: Theme parsing error: gtk-widgets.css:795:49: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.242[0m: Theme parsing error: gtk-widgets.css:796:21: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.242[0m: Theme parsing error: gtk-widgets.css:797:23: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.242[0m: Theme parsing error: gtk-widgets.css:802:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.242[0m: Theme parsing error: gtk-widgets.css:803:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.242[0m: Theme parsing error: gtk-widgets.css:804:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.242[0m: Theme parsing error: gtk-widgets.css:805:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.242[0m: Theme parsing error: gtk-widgets.css:829:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.242[0m: Theme parsing error: gtk-widgets.css:866:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.243[0m: Theme parsing error: gtk-widgets.css:986:33: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.243[0m: Theme parsing error: gtk-widgets.css:1008:33: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.243[0m: Theme parsing error: gtk-widgets.css:1025:33: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.243[0m: Theme parsing error: gtk-widgets.css:1031:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.243[0m: Theme parsing error: gtk-widgets.css:1041:28: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.243[0m: Theme parsing error: gtk-widgets.css:1148:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.244[0m: Theme parsing error: gtk-widgets.css:1313:32: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.244[0m: Theme parsing error: gtk-widgets.css:1325:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.244[0m: Theme parsing error: gtk-widgets.css:1326:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.244[0m: Theme parsing error: gtk-widgets.css:1333:37: The style property GtkMenuItem:horizontal-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.244[0m: Theme parsing error: gtk-widgets.css:1396:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.244[0m: Theme parsing error: gtk-widgets.css:1402:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.244[0m: Theme parsing error: gtk-widgets.css:1405:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.244[0m: Theme parsing error: gtk-widgets.css:1429:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.244[0m: Theme parsing error: gtk-widgets.css:1430:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.245[0m: Theme parsing error: gtk-widgets.css:1463:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.245[0m: Theme parsing error: gtk-widgets.css:1505:18: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.245[0m: Theme parsing error: gtk-widgets.css:1510:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.256[0m: Theme parsing error: gtk-widgets.css:1578:14: not a number
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.256[0m: Theme parsing error: gtk-widgets.css:1578:14: Expected a string.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.256[0m: Theme parsing error: gtk-widgets.css:1607:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.257[0m: Theme parsing error: gtk-widgets.css:1616:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.257[0m: Theme parsing error: gtk-widgets.css:1630:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.257[0m: Theme parsing error: gtk-widgets.css:1640:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.259[0m: Theme parsing error: gtk-widgets.css:1699:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.259[0m: Theme parsing error: gtk-widgets.css:1700:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.260[0m: Theme parsing error: gtk-widgets.css:1719:32: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.260[0m: Theme parsing error: gtk-widgets.css:1720:27: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.260[0m: Theme parsing error: gtk-widgets.css:1731:39: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.260[0m: Theme parsing error: gtk-widgets.css:1732:40: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.260[0m: Theme parsing error: gtk-widgets.css:1733:34: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.260[0m: Theme parsing error: gtk-widgets.css:1734:35: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.260[0m: Theme parsing error: gtk-widgets.css:1774:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.260[0m: Theme parsing error: gtk-widgets.css:1775:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.260[0m: Theme parsing error: gtk-widgets.css:1776:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.262[0m: Theme parsing error: gtk-widgets.css:1777:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.268[0m: Theme parsing error: gtk-widgets.css:1781:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.268[0m: Theme parsing error: gtk-widgets.css:1782:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.268[0m: Theme parsing error: gtk-widgets.css:1788:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.268[0m: Theme parsing error: gtk-widgets.css:1792:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.268[0m: Theme parsing error: gtk-widgets.css:1793:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.268[0m: Theme parsing error: gtk-widgets.css:1801:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.268[0m: Theme parsing error: gtk-widgets.css:1804:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.268[0m: Theme parsing error: gtk-widgets.css:1833:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.268[0m: Theme parsing error: gtk-widgets.css:1841:43: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.269[0m: Theme parsing error: gtk-widgets.css:1843:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.269[0m: Theme parsing error: gtk-widgets.css:1848:57: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.275[0m: Theme parsing error: gtk-widgets.css:1850:66: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.275[0m: Theme parsing error: gtk-widgets.css:1862:43: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.275[0m: Theme parsing error: gtk-widgets.css:1864:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.275[0m: Theme parsing error: gtk-widgets.css:1869:69: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:1871:78: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:1885:43: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:1887:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:1892:68: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:1894:77: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:1908:43: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:1910:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:1915:68: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:1917:77: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:2004:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:2028:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:2029:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:2080:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:2086:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:2118:13: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:2121:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:2125:18: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.276[0m: Theme parsing error: gtk-widgets.css:2132:18: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.277[0m: Theme parsing error: unity.css:109:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.279[0m: Theme parsing error: gedit.css:65:67: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gedit.css:102:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gedit.css:148:42: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gedit.css:152:68: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gedit.css:156:51: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gedit.css:163:77: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: nautilus.css:29:47: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: nautilus.css:40:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gnome-panel.css:71:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gnome-panel.css:72:35: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gnome-panel.css:82:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gnome-panel.css:83:28: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.280[0m: Theme parsing error: gnome-panel.css:98:36: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.281[0m: Theme parsing error: gnome-panel.css:104:36: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.281[0m: Theme parsing error: unity-greeter.css:49:30: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.281[0m: Theme parsing error: unity-greeter.css:53:29: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.281[0m: Theme parsing error: unity-greeter.css:58:23: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.281[0m: Theme parsing error: unity-greeter.css:59:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(system-crash-notification:43595): Gtk-[1;33mWARNING[0m **: [34m06:01:58.281[0m: Theme parsing error: calendar.css:9:18: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+Gtk-[1;32mMessage[0m: [34m06:01:59.571[0m: GtkDialog mapped without a transient parent. This is discouraged.

@@ -1,0 +1,12 @@
+
+** (process:1787): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+Unable to reload configuration: Failed to open "/etc/at-spi2/accessibility.conf": No such file or directory
+Unable to reload configuration: Failed to open "/etc/at-spi2/accessibility.conf": No such file or directory
+Unable to reload configuration: Failed to open "/etc/at-spi2/accessibility.conf": No such file or directory
+Unable to reload configuration: Failed to open "/etc/at-spi2/accessibility.conf": No such file or directory
+Unable to reload configuration: Failed to open "/etc/at-spi2/accessibility.conf": No such file or directory
+Unable to reload configuration: Failed to open "/etc/at-spi2/accessibility.conf": No such file or directory
+Unable to reload configuration: Failed to open "/etc/at-spi2/accessibility.conf": No such file or directory
+Unable to reload configuration: Failed to open "/etc/at-spi2/accessibility.conf": No such file or directory

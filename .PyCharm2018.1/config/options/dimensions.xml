@@ -1,0 +1,39 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1916.927" x="990" y="415" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1916.927" x="659" y="294" />
+    <location key="ProcessPopupWindow.0.0.1916.927" x="1119" y="783" />
+    <location key="SettingsEditor.0.0.1916.927" x="460" y="119" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1772.847" x="720" y="347" />
+    <location key="SettingsEditor.0.0.1366.768" x="185" y="34" />
+    <location key="FileChooserDialogImpl.0.0.1024.671" x="328" y="87" />
+    <location key="WELCOME_SCREEN.0.0.1024.671" x="545" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1024.671" x="232" y="170" />
+    <location key="SettingsEditor.0.0.1920.983" x="466" y="148" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.983" x="680" y="326" />
+    <location key="FileChooserDialogImpl.0.0.1920.983" x="776" y="258" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.983" x="726" y="250" />
+    <size key="ProcessPopupWindow.0.0.1916.927" width="400" height="124" />
+    <size key="GridCell.Tab.0.left.0.0.1916.927" width="1400" height="258" />
+    <size key="GridCell.Tab.0.center.0.0.1916.927" width="1400" height="258" />
+    <size key="GridCell.Tab.0.right.0.0.1916.927" width="1400" height="258" />
+    <size key="GridCell.Tab.0.bottom.0.0.1916.927" width="1400" height="258" />
+    <size key="GridCell.Tab.1.left.0.0.1916.927" width="1400" height="258" />
+    <size key="GridCell.Tab.1.center.0.0.1916.927" width="1400" height="258" />
+    <size key="GridCell.Tab.1.right.0.0.1916.927" width="1400" height="258" />
+    <size key="GridCell.Tab.1.bottom.0.0.1916.927" width="1400" height="258" />
+    <size key="GridCell.Tab.0.left.0.0.1772.847" width="1400" height="274" />
+    <size key="GridCell.Tab.0.center.0.0.1772.847" width="1400" height="274" />
+    <size key="GridCell.Tab.0.right.0.0.1772.847" width="1400" height="274" />
+    <size key="GridCell.Tab.0.bottom.0.0.1772.847" width="1400" height="274" />
+    <size key="GridCell.Tab.1.left.0.0.1772.847" width="1400" height="274" />
+    <size key="GridCell.Tab.1.center.0.0.1772.847" width="1400" height="274" />
+    <size key="GridCell.Tab.1.right.0.0.1772.847" width="1400" height="274" />
+    <size key="GridCell.Tab.1.bottom.0.0.1772.847" width="1400" height="274" />
+    <size key="SettingsEditor.0.0.1366.768" width="1060" height="712" />
+    <size key="FileChooserDialogImpl.0.0.1024.671" width="424" height="492" />
+    <size key="SettingsEditor.0.0.1920.983" width="1045" height="711" />
+    <size key="FileChooserDialogImpl.0.0.1920.983" width="424" height="492" />
+    <size key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.983" width="524" height="507" />
+  </component>
+</application>

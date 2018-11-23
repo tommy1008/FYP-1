@@ -1,0 +1,211 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="1" />
+      <entry action="$Delete" count="1" />
+      <entry action="$Paste" count="2" />
+      <entry action="$SelectAll" count="2" />
+      <entry action="$Undo" count="2" />
+      <entry action="CloseProject" count="1" />
+      <entry action="CloudConfigAction" count="1" />
+      <entry action="Debug" count="6" />
+      <entry action="DebugClass" count="1" />
+      <entry action="DialogOkAction Enter" count="3" />
+      <entry action="EditorBackSpace" count="335" />
+      <entry action="EditorChooseLookupItem" count="51" />
+      <entry action="EditorChooseLookupItemReplace" count="18" />
+      <entry action="EditorCut" count="2" />
+      <entry action="EditorDown" count="32" />
+      <entry action="EditorDuplicate" count="1" />
+      <entry action="EditorEnter" count="30" />
+      <entry action="EditorLeft" count="87" />
+      <entry action="EditorLeftWithSelection" count="5" />
+      <entry action="EditorPaste" count="2" />
+      <entry action="EditorRight" count="99" />
+      <entry action="EditorRightWithSelection" count="21" />
+      <entry action="EditorStartNewLine" count="2" />
+      <entry action="EditorTab" count="4" />
+      <entry action="EditorUp" count="16" />
+      <entry action="EditorUpWithSelection" count="1" />
+      <entry action="Exit" count="1" />
+      <entry action="FileChooser.Refresh" count="6" />
+      <entry action="FindPrevious" count="1" />
+      <entry action="MarkExcludeRoot" count="1" />
+      <entry action="MarkTemplateDirectory" count="1" />
+      <entry action="NewDirectoryProject" count="1" />
+      <entry action="NewElement" count="2" />
+      <entry action="NewPythonFile" count="2" />
+      <entry action="OpenFile" count="2" />
+      <entry action="ReformatCode" count="13" />
+      <entry action="Run" count="1" />
+      <entry action="RunClass" count="1" />
+      <entry action="SaveAll" count="22" />
+      <entry action="ShowSettings" count="2" />
+      <entry action="Synchronize" count="1" />
+      <entry action="SynchronizeCurrentFile" count="1" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1528856993929" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.camelHumps" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="18" last-shown="1542990139032" last-used="1542994498185" shown-count="10" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="69" last-shown="0" last-used="1542995857506" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="367" />
+      <option name="invocations" value="61" />
+      <option name="startDate" value="1542949200000" />
+      <option name="dayCount" value="1" />
+      <option name="lastDate" value="1542949200000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="1" />
+      <option name="startDate" value="1542949200000" />
+      <option name="dayCount" value="1" />
+      <option name="lastDate" value="1542949200000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="Python com.jetbrains.django.ref.DjangoReferenceQuickFixProvider$CreateTemplateIntentionAction" count="1" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Code -&gt; Reformat Code" count="8" />
+      <entry path="File -&gt; Close Project" count="1" />
+      <entry path="File -&gt; Exit" count="1" />
+      <entry path="File -&gt; New Project..." count="1" />
+      <entry path="File -&gt; New..." count="2" />
+      <entry path="File -&gt; Open..." count="2" />
+      <entry path="File -&gt; Settings..." count="2" />
+      <entry path="File -&gt; Sync Settings to JetBrains Account..." count="1" />
+      <entry path="File -&gt; Synchronize" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="335" />
+      <entry shortcut="Ctrl+A" count="2" />
+      <entry shortcut="Ctrl+Alt+L" count="5" />
+      <entry shortcut="Ctrl+D" count="1" />
+      <entry shortcut="Ctrl+S" count="22" />
+      <entry shortcut="Ctrl+Shift+L" count="1" />
+      <entry shortcut="Ctrl+V" count="2" />
+      <entry shortcut="Ctrl+X" count="2" />
+      <entry shortcut="Ctrl+Z" count="2" />
+      <entry shortcut="Down" count="32" />
+      <entry shortcut="Enter" count="81" />
+      <entry shortcut="Left" count="87" />
+      <entry shortcut="Right" count="99" />
+      <entry shortcut="Shift+Enter" count="2" />
+      <entry shortcut="Shift+Left" count="5" />
+      <entry shortcut="Shift+Right" count="21" />
+      <entry shortcut="Shift+Up" count="1" />
+      <entry shortcut="Tab" count="22" />
+      <entry shortcut="Up" count="16" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id="flask_app_builder" values="Locale,Ini,JavaScript,HTML,SQLite Database,PLAIN_TEXT,Python,CSS,SCSS,ReST,Image,UNKNOWN,SVG" collectionTime="1542992344340" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="flask_app_builder" values="run.dashboard.disabled" collectionTime="1542992344365" />
+    </group>
+    <group name="py-interpreter">
+      <project id="flask_app_builder" values="Python 3.6.7 [virtualenv]" collectionTime="1542992344379" />
+    </group>
+    <group name="vcs-stats">
+      <project id="flask_app_builder" values="ignored.files.count.0,has.default.vcs.root.mapping.enabled,active.changelists.count.1,vcs.roots.count.0,unversioned.files.count.0" collectionTime="1542992344331" />
+    </group>
+    <group name="Docker View">
+      <project id="flask_app_builder" values="docker.view.available,docker.view.total" collectionTime="1542992344536" />
+    </group>
+    <group name="vcs-options">
+      <project id="flask_app_builder" values="changelist.make.new.active.disabled,show.changes.preview.disabled,offer.move.partially.committed.disabled,perform.rollback.in.background.disabled,include.text.into.shelf.enabled,commit.before.rearrange.disabled,commit.use.right.margin.enabled,check.conflicts.in.background.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,perform.update.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.smell.disabled,commit.clear.initial.comment.disabled,changelist.preselect.existing.disabled,commit.before.optimize.imports.disabled,commit.show.unversioned.enabled,commit.before.reformat.project.disabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,perform.checkout.in.background.enabled" collectionTime="1542992344329" />
+    </group>
+    <group name="Git">
+      <project id="flask_app_builder" values="config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,version.0.0.0-NULL,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1542992344385" />
+    </group>
+    <group name="Docker Integration">
+      <project id="flask_app_builder" values="docker.fileType.dockerfile.patterns,docker.fileType.dockerfile.patterns.1,docker.accounts.total=0,docker.accounts.total.0,docker.runConfigs.image=0,docker.runConfigs.total=0,docker.runConfigs.jsonFile=0,docker.accounts.registry=0,docker.runConfigs.cliOptions=0,docker.runConfigs.command=0,docker.runConfigs.debug=0,docker.runConfigs.compose=0,docker.accounts.registry.0,docker.runConfigs.entrypoint=0,docker.accounts.machines=0,docker.runConfigs.total.0,docker.runConfigs.publishAllPorts=0,docker.runConfigs.dockerfile=0" collectionTime="1542992344536" />
+    </group>
+    <group name="all-bundled-tools">
+      <project id="flask_app_builder" values="JavaScript.LoopStatementThatDoesntLoopJS,JavaScript.CoffeeScriptArgumentsOutsideFunction,Python.PyNestedDecorators,JavaScript.ThisExpressionReferencesGlobalObjectJS,JavaScript.JSUnfilteredForInLoop,JavaScript.ES6ConvertModuleExportToExport,GQL.Query_restricted,XML.HtmlUnknownAnchorTarget,Python.PyExceptionInherit,Python.PyPropertyDefinition,JavaScript.JSStringConcatenationToES6Template,Python.PyTupleItemAssignment,JavaScript.JSUnusedGlobalSymbols,ReST.RestRoleInspection,JavaScript.AssignmentToFunctionParameterJS,JavaScript.CoffeeScriptFunctionSignatures,SQL.SqlStorageInspection,Dockerfile.DockerFileArgumentCount,JavaScript.ForLoopThatDoesntUseLoopVariableJS,DjangoTemplate.DjangoUnresolvedLoadInspection,TypeScript.SuspiciousInstanceOfGuard,BuildoutCfg.BuildoutUnresolvedPartInspection,Flow JS.FlowJSConfig,null.TodoComment,JavaScript.CoffeeScriptSillyAssignment,SQL.SqlInsertValues,Python.PyDecorator,JavaScript.UnnecessaryLocalVariableJS,Puppet.PuppetUnresolved,JavaScript.UnnecessaryLabelOnContinueStatementJS,LESS.LessResolvedByNameOnly,CSS.CssOptimizeSimilarProperties,Python.PyDocstringTypes,Haml.HamlNestedTagContent,DjangoTemplate.DjangoIncompatibleInspection,Dockerfile.DockerFileAddOrCopySemantic,JavaScript.InnerHTMLJS,JavaScript.JSPotentiallyInvalidUsageOfThis,JavaScript.ChainedEqualityComparisonsJS,DjangoTemplate.DjangoRelationInspection,Python.PyMissingTypeHints,JavaScript.WithStatementJS,CSS.CssMissingSemicolon,Properties.AlphaUnsortedPropertiesFile,JavaScript.CoffeeScriptSwitchStatementWithNoDefaultBranch,null.LossyEncoding,HTML.JSUnresolvedLibraryURL,JavaScript.MagicNumberJS,Python.PyDunderSlots,Python.PyDefaultArgument,JavaScript.PointlessBooleanExpressionJS,Properties.WrongPropertyKeyValueDelimiter,XML.HtmlUnknownTarget,JavaScript.InfiniteRecursionJS,CSS.CssUnresolvedCustomProperty,Python.PyTypeChecker,XML.XmlInvalidId,RegExp.RegExpSingleCharAlternation,CSS.CssInvalidPropertyValue,XML.CheckDtdRefs,CSS.CssConvertColorToRgbInspection,RegExp.RegExpDuplicateAlternationBranch,XML.HtmlDeprecatedTag,Gherkin.GherkinMisplacedBackground,Puppet.Puppet3Deprecations,TypeScript.TypeScriptValidateTypes,JavaScript.AssignmentToForLoopParameterJS,JavaScript.JSRedeclarationOfBlockScope,JavaScript.DebuggerStatementJS,JavaScript.OverlyComplexFunctionJS,CSS.CssFloatPxLength,JavaScript.JSXNamespaceValidation,Python.PyBDDParameters,null.PyPackageRequirements,JavaScript.ConstantOnLefSideOfComparisonJS,JavaScript.JSLastCommaInObjectLiteral,JavaScript.XHTMLIncompatabilitiesJS,SCSS.SassScssUnresolvedVariable,TypeScript.EqualityComparisonWithCoercionJS,JavaScript.ReturnInsideFinallyBlockJS,TypeScript.TypeScriptCheckImport,TypeScript.TypeScriptAccessibilityCheck,JavaScript.IfStatementWithIdenticalBranchesJS,Python.PyMethodMayBeStatic,Flow JS.FlowJSCoverage,RegExp.RegExpEscapedMetaCharacter,JavaScript.JSValidateTypes,Python.PyDictCreation,JavaScript.UnnecessaryLabelOnBreakStatementJS,TypeScript.TypeScriptUnresolvedFunction,JavaScript.JSDuplicatedDeclaration,SQL.SqlUnused,Python.PyUnreachableCode,Python.PyNonAsciiChar,JavaScript.JSTypeOfValues,Properties.IncompleteProperty,Python.PySetFunctionToLiteral,Python.PyCallByClass,XML.XmlWrongRootElement,Python.PyAbstractClass,JavaScript.FlowJSError,JavaScript.StatementWithEmptyBodyJS,JavaScript.JSArrowFunctionBracesCanBeRemoved,null.UnresolvedReference,Python.PyMethodParameters,SQL.SqlNullComparison,JavaScript.JSAccessibilityCheck,Python.PyInconsistentIndentation,JavaScript.DivideByZeroJS,JavaScript.ES6ModulesDependencies,null.NonAsciiCharacters,JavaScript.UnreachableCodeJS,JavaScript.JSJQueryEfficiency,SQL.SqlAddNotNullColumn,JavaScript.JSAnnotator,JavaScript.ReuseOfLocalVariableJS,CSS.CssUnknownTarget,Ini.DuplicateKeyInSection,SQL.SqlConstantCondition,JavaScript.Jscs,JavaScript.AssignmentReplaceableWithOperatorAssignmentJS,HTML.HtmlUnknownTag,Python.PyExceptClausesOrder,Python.PyUnnecessaryBackslash,HTML.HtmlUnknownAttribute,SQL.SqlCheckUsingColumns,DjangoTemplate.ExtendsTagPositionInspection,JavaScript.GjsLint,JavaScript.JSUnnecessarySemicolon,yaml.ComposeUnknownKeys,JavaScript.ReservedWordAsName,JavaScript.JSDeprecatedSymbols,TypeScript.TsLint,Python.PyProtectedMember,TypeScript.SuspiciousTypeOfGuard,JavaScript.UnnecessaryContinueJS,DjangoTemplate.DjangoBrokenLineCommentInspection,JavaScript.JSLastCommaInArrayLiteral,SQL.SqlSignature,CSS.CssMissingComma,Python.PyClassicStyleClass,XML.CheckValidXmlInScriptTagBody,Gherkin.CucumberExamplesColon,JavaScript.FunctionTooLongJS,JavaScript.TailRecursionJS,XML.XmlUnusedNamespaceDeclaration,JavaScript.UnusedCatchParameterJS,JavaScript.EmptyCatchBlockJS,HTML.EmptyEventHandler,JavaScript.FallThroughInSwitchStatementJS,SQL.SqlType,JavaScript.CoffeeScriptInfiniteLoop,Python.PyMandatoryEncoding,XML.CheckImageSize,ECMAScript 6.ES6CheckImport,JavaScript.JSNonStrictModeUsed,Flow JS.FlowJSFlagCommentPlacement,JavaScript.TextLabelInSwitchStatementJS,JavaScript.RedundantIfStatementJS,Python.PyOverloads,JavaScript.LocalVariableNamingConventionJS,JavaScript.JSCheckFunctionSignatures,Properties.DuplicatePropertyInspection,JavaScript.JSCommentMatchesSignature,JavaScript.JSFileReferences,CSS.CssUnknownProperty,CSS.Stylelint,Python.PyByteLiteral,Python.PyDataclass,DjangoTemplate.DjangoUnresolvedTemplateReferenceInspection,DjangoTemplate.DjangoUrlArgumentsInspection,JavaScript.IncrementDecrementResultUsedJS,Python.PyramidSetup,JavaScript.JSUnresolvedVariable,TypeScript.TypeScriptFieldCanBeMadeReadonly,CSS.SassScssResolvedByNameOnly,Python.PyGlobalUndefined,Python.DjangoOrm,JavaScript.JSDeclarationsAtScopeStart,yaml.AppEngineDeprecatedRuntime,JavaScript.JSComparisonWithNaN,JavaScript.ES6ConvertVarToLetConst,CSS.CssInvalidElement,SQL.SqlSideEffects,XML.HtmlFormInputWithoutLabel,JavaScript.ES6PossiblyAsyncFunction,JavaScript.CommaExpressionJS,DjangoTemplate.DjangoUnresolvedStaticReferenceInspection,JavaScript.FunctionWithMultipleLoopsJS,JavaScript.FunctionWithInconsistentReturnsJS,Python.PyUnboundLocalVariable,Python.PyFromFutureImport,JavaScript.BreakStatementJS,Python.PyTrailingSemicolon,SQL.SqlResolve,JavaScript.BreakStatementWithLabelJS,CSS.CssRedundantUnit,DjangoTemplate.DjangoUnresolvedFilterInspection,RegExp.RegExpEmptyAlternationBranch,null.Annotator,Python.PyPep8Naming,JavaScript.InfiniteLoopJS,CSS.CssUnitlessNumber,JavaScript.CoffeeScriptLiteralNotFunction,null.SpellCheckingInspection,Python.PyRedeclaration,JavaScript.JSClosureCompilerSyntax,JavaScript.ExceptionCaughtLocallyJS,Python.PyDictDuplicateKeys,null.Duplicates,RegExp.RegExpRedundantEscape,JavaScript.OverlyComplexBooleanExpressionJS,Python.PyStringFormat,JavaScript.FunctionNamingConventionJS,Python.PyArgumentList,JavaScript.StandardJS,JavaScript.OctalIntegerJS,JavaScript.OverlyComplexArithmeticExpressionJS,SQL.SqlDialectInspection,Python.PyCallingNonCallable,SQL.SqlAmbiguousColumn,JavaScript.ES6UnusedImports,TypeScript.TypeScriptUnresolvedVariable,null.TaskProblemsInspection,SQL.SqlIdentifier,JavaScript.NpmUsedModulesInstalled,SQL.SqlDropIndexedColumn,JavaScript.JSSuspiciousNameCombination,JavaScript.LabeledStatementJS,JavaScript.ES6BindWithArrowFunction,JavaScript.IncompatibleBitwiseMaskOperation,JavaScript.JSPotentiallyInvalidTargetOfIndexedPropertyAccess,JavaScript.BlockStatementJS,JavaScript.OverlyComplexFunctionJS,Python.PyMethodOverriding,JavaScript.JSUnusedAssignment,HTML.HtmlUnknownBooleanAttribute,Python.PyShadowingBuiltins,JavaScript.EmptyFinallyBlockJS,null.ProblematicWhitespace,XML.XmlDefaultAttributeValue,DjangoTemplate.DjangoUnresolvedTagInspection,null.LongLine,Python.PyIncorrectDocstring,JavaScript.NegatedIfStatementJS,JSON.PackageJsonMismatchedDependency,RegExp.RegExpRepeatedSpace,CSS.CssInvalidPseudoSelector,Python.PyInterpreter,TypeScript.TypeScriptSuspiciousConstructorParameterAssignment,JavaScript.JSIgnoredPromiseFromCall,JavaScript.JSUndefinedPropertyAssignment,Python.PyClassHasNoInit,XML.XmlPathReference,Puppet.Puppet4Deprecations,TypeScript.TypeScriptValidateJSTypes,XML.CheckXmlFileWithXercesValidator,JavaScript.ForLoopReplaceableByWhile,Python.PyNoneFunctionAssignment,Python.PyMethodFirstArgAssignment,Gherkin.CucumberTableInspection,Python.PyInitNewSignature,JavaScript.AnonymousFunctionJS,JavaScript.ObjectAllocationIgnored,JavaScript.JSValidateJSDoc,Python.PyUnusedLocal,Gherkin.CucumberUndefinedStep,TypeScript.TypescriptExplicitMemberType,CSS.CssConvertColorToHexInspection,JavaScript.PlatformDetectionJS,JavaScript.JSNonASCIINames,SQL.SqlPostgresqlSelectFromProcedure,Python.PyPep8,JavaScript.JSFunctionExpressionToArrowFunction,XML.XmlUnboundNsPrefix,Python.PySimplifyBooleanCheck,JavaScript.JSMismatchedCollectionQueryUpdate,XML.XmlHighlighting,JavaScript.NonBlockStatementBodyJS,DjangoTemplate.DjangoUnresolvedUrlInspection,JavaScript.JSPotentiallyInvalidConstructorUsage,SQL.SqlAutoIncrementDuplicate,JavaScript.DynamicallyGeneratedCodeJS,null.SSBasedInspection,JavaScript.EmptyTryBlockJS,CSS.CssOverwrittenProperties,CSS.CssInvalidMediaFeature,JavaScript.WebpackConfigHighlighting,JavaScript.SillyAssignmentJS,RegExp.RegExpOctalEscape,JavaScript.JSReferencingMutableVariableFromClosure,SCSS.SassScssUnresolvedMixin,HTML.HtmlExtraClosingTag,XML.HtmlNonExistentInternetResource,JavaScript.ConfusingFloatingPointLiteralJS,SQL.SqlShouldBeInGroupBy,JavaScript.Eslint,Python.PyAugmentAssignment,CSS.CssUnresolvedCustomPropertySet,JavaScript.VoidExpressionJS,JavaScript.JSReferencingArgumentsOutsideOfFunction,JSON.JsonStandardCompliance,XML.CheckTagEmptyBody,JavaScript.JSPotentiallyInvalidUsageOfClassThis,XML.RequiredAttributes,GQL.Query_bound_parameters,Python.PyChainedComparisons,JavaScript.EqualityComparisonWithCoercionJS,JavaScript.ContinueStatementWithLabelJS,ECMAScript 6.ES6ClassMemberInitializationOrder,JavaScript.NonShortCircuitBooleanExpressionJS,HTML.HtmlMissingClosingTag,JavaScript.DuplicateCaseLabelJS,CSS.CssInvalidImport,Python.PyArgumentEqualDefault,LESS.LessUnresolvedMixin,JavaScript.ThrowInsideFinallyBlockJS,null.InconsistentLineSeparators,Python.PyAttributeOutsideInit,JavaScript.ConstantIfStatementJS,JavaScript.JSUnresolvedFunction,JavaScript.PointlessBitwiseExpressionJS,JavaScript.JSBitwiseOperatorUsage,JavaScript.ES6ShorthandObjectProperty,LESS.LessUnresolvedVariable,CSS.CssInvalidFunction,null.UnusedDefine,Puppet.PuppetMultipleHashSetParamsPerResourceInstance,Ini.DuplicateSectionInFile,JavaScript.FunctionWithMultipleReturnPointsJS,Python.PyDeprecation,JavaScript.BadExpressionStatementJS,GQL.Query_index_required,DjangoTemplate.DuplicatedBlockNamesInspection,JavaScript.ES6ConvertToForOf,Python.PyShadowingNames,JavaScript.DuplicateConditionJS,JSON.JsonDuplicatePropertyKeys,CSS.CssInvalidHtmlTagReference,JavaScript.ConditionalExpressionWithIdenticalBranchesJS,JavaScript.JSConstructorReturnsPrimitive,CSS.CssInvalidCharsetRule,JavaScript.JSRemoveUnnecessaryParentheses,Cython.CythonUsageBeforeDeclaration,XML.XmlDuplicatedId,JavaScript.CallerJS,CSS.CssNegativeValue,yaml.ComposeUnknownValues,yaml.AppEngineThreadsafe,TypeScript.TypeScriptMissingAugmentationImport,TypeScript.TypeScriptPreferShortImport,Properties.UnusedProperty,Python.MakoArgumentList,JavaScript.ContinueOrBreakFromFinallyBlockJS,JavaScript.JSUnusedLocalSymbols,JavaScript.JSUnresolvedExtXType,JavaScript.PointlessArithmeticExpressionJS,Python.PyRedundantParentheses,SQL.SqlDeprecateType,Python.PySuperArguments,RegExp.RegExpAnonymousGroup,TypeScript.TypeScriptAbstractClassConstructorCanBeMadeProtected,JavaScript.NestedSwitchStatementJS,JavaScript.IfStatementWithTooManyBranchesJS,Python.PyReturnFromInit,JavaScript.ChainedFunctionCallJS,JavaScript.JSMethodCanBeStatic,Python.PyAssignmentToLoopOrWithParameter,Python.PyCompatibility,SQL.MysqlParsing,SCSS.SassScssUnresolvedPlaceholderSelector,JavaScript.ParameterNamingConventionJS,Gherkin.CucumberMissedExamples,Python.PyUnresolvedReferences,JavaScript.FunctionWithMoreThanThreeNegationsJS,CSS.CssNoGenericFontName,JavaScript.JSPrimitiveTypeWrapperUsage,RegExp.RegExpUnexpectedAnchor,JavaScript.AssignmentResultUsedJS,JavaScript.JSUndeclaredVariable,Python.PyProtocol,JavaScript.UnnecessaryLabelJS,Python.PyNamedTuple,JavaScript.SwitchStatementWithNoDefaultBranchJS,Python.PyListCreation,JavaScript.ConfusingPlusesOrMinusesJS,Python.PyBehave,JavaScript.CoffeeScriptUnusedLocalSymbols,JavaScript.NestedFunctionCallJS,JavaScript.ConstantOnRightSideOfComparisonJS,Python.PyStringException,CSS.CssInvalidAtRule,JavaScript.NestedFunctionJS,JavaScript.ConditionalExpressionJS,SQL.SqlDerivedTableAlias,Python.PyTupleAssignmentBalance,Python.PyOldStyleClasses,Python.Restricted_Python_calls,DjangoTemplate.DjangoCloseTagInspection,DjangoTemplate.EndBlockNamesInspection,Python.PyPropertyAccess,Gherkin.GherkinBrokenTableInspection,null.SyntaxError,CSS.CssUnresolvedClass,Python.PyComparisonWithNone,CSS.CssUnusedSymbol,JavaScript.DocumentWriteJS,TypeScript.TypeScriptUMDGlobal,CommandLine.CommandLineInspection,JavaScript.UnterminatedStatementJS,JavaScript.OverlyNestedFunctionJS,JavaScript.JSLint,JavaScript.StringLiteralBreaksHTMLJS,JavaScript.JSClassNamingConvention,JavaScript.RedundantConditionalExpressionJS,null.InjectedReferences,JavaScript.JSHint,JavaScript.UnnecessaryReturnStatementJS,Python.PyStatementEffect,JavaScript.JSConsecutiveCommasInArrayLiteral,Python.PyMissingOrEmptyDocstring,Python.PyBroadException,JavaScript.ConstantConditionalExpressionJS,Python.PySingleQuotedDocstring,yaml.AppEngineThreadsafeCGIHandler,Dockerfile.DockerFileAssignments,JavaScript.NestedAssignmentJS,JavaScript.NestedConditionalExpressionJS,JavaScript.DefaultNotLastCaseInSwitchJS,Properties.TrailingSpacesInProperty,JavaScript.NegatedConditionalExpressionJS,JavaScript.ContinueStatementJS,SQL.SqlNoDataSourceInspection,Python.PyMissingConstructor,JavaScript.ShiftOutOfRangeJS,JavaScript.ES6ConvertRequireIntoImport,JavaScript.AmdModulesDependencies,XML.CheckEmptyScriptTag,XML.HtmlPresentationalElement,JavaScript.ES6MissingAwait" collectionTime="1542992344360" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="flask_app_builder" values="Project" collectionTime="1542992344510" />
+    </group>
+    <group name="module type">
+      <project id="flask_app_builder" values="PYTHON_MODULE" collectionTime="1542992344340" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="flask_app_builder" values="ECMAScript 6" collectionTime="1542992344510" />
+    </group>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Debug@NavBarToolbar" count="6" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="6" />
+      <entry action="Run@NavBarToolbar" count="1" />
+      <entry action="RunConfiguration@NavBarToolbar" count="3" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Pure Python" count="2" />
+      <entry feature="OpenInBrowser.Firefox" count="2" />
+      <entry feature="StripeButton[Docker].hidden" count="3" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="7" />
+      <entry feature="execute.PythonConfigurationType.Run" count="2" />
+      <entry feature="ide.help.Cython_Speedups" count="1" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Project Interpreter" count="1" />
+      <entry feature="ide.settings.Web Browsers" count="1" />
+      <entry feature="ideaapp.started" count="10" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="welcome.screen.WelcomScreen.ManageLicense" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+      <entry feature="welcome.screen.null" count="4" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" time="1542973849384" />
+</application>

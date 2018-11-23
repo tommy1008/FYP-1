@@ -1,0 +1,2 @@
+
+(process:1931): Indicator-Datetime-WARNING **: indicator-datetime cannot show EDS appointments: Error calling StartServiceByName for org.gnome.evolution.dataserver.Sources5: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Failed to execute program org.gnome.evolution.dataserver.Sources5: No such file or directory

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Mozilla Firefox
+Icon=firefox
+Exec=/usr/lib/firefox/firefox
+StartupNotify=false
+StartupWMClass=Firefox
+OnlyShowIn=Unity;
+X-UnityGenerated=true

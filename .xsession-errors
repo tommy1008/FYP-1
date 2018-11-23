@@ -1,0 +1,16 @@
+upstart: update-notifier-release main process (1742) killed by TERM signal
+upstart: upstart-dbus-session-bridge main process (1752) terminated with status 1
+upstart: bamfdaemon main process (1765) killed by TERM signal
+upstart: at-spi2-registryd main process (1787) killed by HUP signal
+upstart: gnome-session (Unity) main process (1792) killed by HUP signal
+upstart: unity-panel-service main process (1800) killed by HUP signal
+upstart: indicator-bluetooth main process (1929) killed by TERM signal
+upstart: indicator-power main process (1930) killed by TERM signal
+upstart: indicator-datetime main process (1931) killed by TERM signal
+upstart: indicator-keyboard main process (1933) killed by HUP signal
+upstart: indicator-sound main process (1934) killed by HUP signal
+upstart: unity-settings-daemon main process (1763) killed by HUP signal
+upstart: Disconnected from notified D-Bus bus
+upstart: ssh-agent post-stop process (8978) terminated with status 127
+upstart: gnome-session (Unity) pre-stop process (8976) terminated with status 127
+upstart: unity7 main process (1886) terminated with status 1

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/osboxes/PycharmProjects/flask_app_builder/.idea/flask_app_builder.iml" timestamp="1542990316000" />
+    <file path="/home/osboxes/PycharmProjects/flask_app_builder/.idea/misc.xml" timestamp="1542971890000" />
+    <file path="/home/osboxes/PycharmProjects/flask_app_builder/.idea/modules.xml" timestamp="1542971890000" />
+    <file path="/home/osboxes/PycharmProjects/flask_app_builder/.idea/workspace.xml" timestamp="1542999733000" />
+  </project-files>
+</conversion>
+

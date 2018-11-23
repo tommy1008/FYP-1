@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="50" last-seen="1542990849"/>
+    <application id="jetbrains-pycharm.desktop" open-window-count="1" score="1003" last-seen="1542995859"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="2239" last-seen="1542995882"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="3" last-seen="1542971472"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="1" last-seen="1542971435"/>
+    <application id="firefox.desktop" open-window-count="1" score="93" last-seen="1542995867"/>
+  </context>
+</application-state>

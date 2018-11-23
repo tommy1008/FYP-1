@@ -1,0 +1,12 @@
+
+(unity-settings-daemon:1763): color-plugin-WARNING **: There is no colord server available
+
+(unity-settings-daemon:1763): color-plugin-WARNING **: failed to get devices: The name org.freedesktop.ColorManager was not provided by any .service files
+
+(unity-settings-daemon:1763): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+
+(unity-settings-daemon:1763): GLib-GObject-WARNING **: g_object_notify: object class 'UpDevice' has no property named 'g-name-owner'
+
+(unity-settings-daemon:1763): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+
+(unity-settings-daemon:1763): GLib-GObject-WARNING **: g_object_notify: object class 'UpDevice' has no property named 'g-name-owner'

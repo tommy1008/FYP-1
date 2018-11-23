@@ -1,0 +1,26 @@
+1528857013559
+Python￿stub:com.jetbrains.python.psi.PyFileElementType,69￿1528857013555
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1528857013556
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,517089350￿1528857013534
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1528857013545
+CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1528857013550
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,517089350￿1528857013535
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,517089350￿1528857013549
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1528857013554
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,517089350￿1528857013541
+Puppet￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1528857013546
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,517089350￿1528857013553
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1528857013537
+SQL￿stub:com.intellij.sql.psi.stubs.SqlFileElementType,13￿1528857013552
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,517089350￿1528857013551
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,517089350￿1528857013536
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1528857013539
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1528857013544
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,517089350￿1528857013557
+Ini￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1528857013547
+Jinja2￿stub:com.intellij.psi.tree.IStubFileElementType,200584736￿1528857013524
+Mako￿stub:com.jetbrains.mako.psi.impl.MakoFileElementType,200584805￿1528857013525
+PythonStub￿stub:com.jetbrains.python.pyi.PyiFileElementType,69￿1528857013558
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1528857013543
+Cython￿stub:com.jetbrains.cython.psi.elementTypes.CythonFileElementType,69￿1528857013538
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,517089350￿1528857013542
