@@ -24,7 +24,7 @@ def set_sqlite_pragma(dbapi_connection, connesshction_record):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html',appbuilder=appbuilder)
 
 
 if __name__ == '__main__':
